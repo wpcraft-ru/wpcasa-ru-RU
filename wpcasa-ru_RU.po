@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WPCasa\n"
 "POT-Creation-Date: 2016-10-25 17:15+0300\n"
-"PO-Revision-Date: 2016-10-25 17:15+0300\n"
+"PO-Revision-Date: 2016-10-26 16:20+0300\n"
 "Last-Translator: Systemo <s@systemo.biz>\n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -164,11 +164,11 @@ msgstr ""
 
 #: includes/admin/class-wpsight-admin.php:248
 msgid "Before the value"
-msgstr ""
+msgstr "Перед значением"
 
 #: includes/admin/class-wpsight-admin.php:248
 msgid "After the value"
-msgstr ""
+msgstr "После значения"
 
 #: includes/admin/class-wpsight-admin.php:252
 msgid "Thousands Separator"
@@ -329,11 +329,11 @@ msgstr "Отменить одобрение"
 
 #: includes/admin/class-wpsight-cpt.php:348
 msgid "Mark available"
-msgstr ""
+msgstr "Отметить как доступное"
 
 #: includes/admin/class-wpsight-cpt.php:348
 msgid "Mark unavailable"
-msgstr ""
+msgstr "Отметить как не доступное"
 
 #: includes/admin/class-wpsight-cpt.php:356
 msgid "Trash"
@@ -1164,7 +1164,7 @@ msgstr ""
 
 #: includes/class-wpsight-meta-boxes.php:572
 msgid "Listing Details"
-msgstr ""
+msgstr "Детали объявления"
 
 #: includes/class-wpsight-meta-boxes.php:601
 msgid "Address"
@@ -1267,7 +1267,7 @@ msgstr ""
 
 #: includes/class-wpsight-post-types.php:77
 msgid "Locations"
-msgstr ""
+msgstr "Расположение"
 
 #: includes/class-wpsight-post-types.php:78
 #: includes/class-wpsight-search.php:235
@@ -1277,12 +1277,12 @@ msgstr "Местоположение"
 #: includes/class-wpsight-post-types.php:83
 msgctxt "taxonomy locations"
 msgid "Locations"
-msgstr ""
+msgstr "Расположения"
 
 #: includes/class-wpsight-post-types.php:84
 msgctxt "taxonomy locations"
 msgid "All Locations"
-msgstr ""
+msgstr "Все расположения"
 
 #: includes/class-wpsight-post-types.php:85
 msgctxt "taxonomy locations"
@@ -1322,12 +1322,12 @@ msgstr ""
 #: includes/class-wpsight-post-types.php:92
 msgctxt "taxonomy locations"
 msgid "Search locations"
-msgstr ""
+msgstr "Поиск локаций"
 
 #: includes/class-wpsight-post-types.php:93
 msgctxt "taxonomy locations"
 msgid "Popular Locations"
-msgstr ""
+msgstr "Популярные места"
 
 #: includes/class-wpsight-post-types.php:94
 msgctxt "taxonomy locations"
@@ -1351,11 +1351,11 @@ msgstr ""
 
 #: includes/class-wpsight-post-types.php:125
 msgid "Listing Types"
-msgstr ""
+msgstr "Тип объявления"
 
 #: includes/class-wpsight-post-types.php:126
 msgid "Listing Type"
-msgstr ""
+msgstr "Тип объекта"
 
 #: includes/class-wpsight-post-types.php:131
 msgctxt "taxonomy types"
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: includes/class-wpsight-post-types.php:172
 msgid "Features"
-msgstr ""
+msgstr "Особенности"
 
 #: includes/class-wpsight-post-types.php:173
 msgid "Feature"
@@ -1533,7 +1533,7 @@ msgstr "Объявления"
 #: includes/class-wpsight-post-types.php:254
 msgctxt "listing"
 msgid "Listing"
-msgstr "Список"
+msgstr "Объявление"
 
 #: includes/class-wpsight-post-types.php:255
 msgctxt "listing"
@@ -1691,16 +1691,16 @@ msgstr ""
 #: templates/listing-print.php:27
 msgctxt "listing print"
 msgid "Back to Listing"
-msgstr ""
+msgstr "Назад к объявлению"
 
 #: templates/listing-print.php:31
 msgctxt "listing print"
 msgid "Print Now"
-msgstr ""
+msgstr "Распечатать"
 
 #: templates/listing-single-agent.php:61
 msgid "My Listings"
-msgstr "Мои Списки"
+msgstr "Мои объекты"
 
 #: templates/listing-single.php:14
 msgid "This listing has expired."
